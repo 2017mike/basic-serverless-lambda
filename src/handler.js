@@ -5,4 +5,3 @@ module.exports.generateRandomNumber = async (event) => {
   console.log(`the random generated integer is ${randomNumber}`);
   return randomNumber;
 };
-//
